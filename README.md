@@ -7,6 +7,17 @@ Create a command line that prompts for commands and moves a rover around a 2D pl
 The robot should point in a direction, turn to face different directions, and take a step in the direcion it is facing.
 
 
+## Commands
+
+**Run Test Cases:**
+```
+python -m unittest robot_rover.py
+```
+**Run Programe:**
+```
+python robot_rover.py
+```
+
 ## Demo
 
 ```
